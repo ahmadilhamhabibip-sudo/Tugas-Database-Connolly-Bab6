@@ -1,0 +1,1 @@
+INSERT INTO Booking VALUES ('H101', 'G001', '2026-11-03', '2026-11-07', 20);
